@@ -1,0 +1,3 @@
+minio==7.1.12
+SQLAlchemy==1.4.43
+pika==1.3.1
